@@ -1,0 +1,16 @@
+[
+  {
+    "langName": "English",
+    "langId": "en",
+    "icon": "us",
+    "lang": "En",
+    "direction": "ltr"
+  },
+  {
+    "langName": "Arabic",
+    "langId": "zh",
+    "icon": "ar",
+    "lang": "Ch",
+    "direction": "rtl"
+  }
+]
